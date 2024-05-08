@@ -6,6 +6,7 @@ export default () => (
       <div className="cross-contain">
         <img className="cross" src={cross} alt="" />
       </div>
+      
     </div>
     <div className="cardInside">
       <h3 className="back">HAPPY EASTER</h3>

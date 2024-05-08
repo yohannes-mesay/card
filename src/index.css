@@ -12,14 +12,6 @@ body {
   position: relative;
 }
 
-.cross::before {
-  transform: translateY(-50%);
-}
-
-.cross::after {
-  transform: translateY(-50%) rotate(90deg);
-}
-
 .fasika {
   position: relative;
   width: 250px;
